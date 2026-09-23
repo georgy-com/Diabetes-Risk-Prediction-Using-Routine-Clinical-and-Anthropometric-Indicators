@@ -1,4 +1,4 @@
-Brief Insight: 
+Project Overview: 
 
 The analysis provides evidence that a combination of routine demographic, anthropometric, biochemical and cardiovascular variables can be used to construct a machine-learning framework for diabetes risk stratification. Stabilized glucose emerged as the dominant predictor in the logistic model, while the nonlinear algorithms demonstrated strong discrimination, with Random Forest and XGBoost each achieving a test ROC-AUC of 0.956.
 
